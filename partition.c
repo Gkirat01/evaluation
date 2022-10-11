@@ -1,4 +1,4 @@
-
+//code//
     #include<stdio.h>
 
     void printarray(int p[], int n)
